@@ -56,7 +56,7 @@ class Chat:
 
 
 
-# On a cette fonction qui cherche à afficher des informations sur un animal
+# Cette fonction cherche à afficher des informations sur un animal
 # Cette fonction peut donc prendre en paramètre soit un chien soit un chat. 
 
 # Le problème avec cette fonction est que son annotation serait beaucoup trop grande
